@@ -1,0 +1,4 @@
+# ignore code geneated
+out
+# ignore modules
+node_modules
